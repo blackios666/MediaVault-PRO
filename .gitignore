@@ -1,0 +1,18 @@
+# No publicar binarios dentro del repositorio; usar GitHub Releases.
+*.ipa
+*.deb
+*.dylib
+*.mobileprovision
+*.p12
+*.p8
+*.cer
+*.key
+*.pem
+*.env
+.env*
+*.log
+.DS_Store
+__pycache__/
+.theos/
+build/
+vendor/
