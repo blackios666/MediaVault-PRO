@@ -10,7 +10,7 @@
 [![Instalación](https://img.shields.io/badge/Instalación-IPA-13cbb5?style=for-the-badge)](#descarga)
 [![Proyecto](https://img.shields.io/badge/Proyecto-BLACK%20IOS-746cf5?style=for-the-badge)](#comunidad-y-soporte)
 
-**[⬇ DESCARGAR ÚLTIMA VERSIÓN](https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases/latest/download/MediaVault-PRO.ipa)** · [📦 Ver versiones](https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases) · [🌐 Web de descarga](https://USUARIO_GITHUB.github.io/MediaVault-PRO/)
+**[⬇ DESCARGAR ÚLTIMA VERSIÓN]([https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases/latest/download/MediaVault-PRO.ipa](https://github.com/blackios666/MediaVault-PRO/releases/download/v2.4.0/MediaVault-PRO.ipa))** · [📦 Ver versiones]([https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases](https://github.com/blackios666/MediaVault-PRO/releases/tag/v2.4.0)) · [🌐 Web de descarga]([https://USUARIO_GITHUB.github.io/MediaVault-PRO/](https://mediavault-pro.blogspot.com/))
 
 </div>
 
@@ -35,9 +35,9 @@ MediaVault PRO reúne herramientas de descarga compatibles, reproducción musica
 
 ## ⬇ Descarga
 
-**[Descargar MediaVault-PRO.ipa (última versión)](https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases/latest/download/MediaVault-PRO.ipa)**
+**[Descargar MediaVault-PRO.ipa (última versión)](https://github.com/blackios666/MediaVault-PRO/releases/download/v2.4.0/MediaVault-PRO.ipa)**
 
-También puedes consultar las [notas de versión](https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases/latest).
+También puedes consultar las [notas de versión](https://github.com/blackios666/MediaVault-PRO/releases).
 
 **El botón funcionará cuando exista una publicación («Release») pública con un archivo adjunto llamado exactamente `MediaVault-PRO.ipa`.** No es necesario subir el código fuente ni la carpeta `vendor/`.
 
