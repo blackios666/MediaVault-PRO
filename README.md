@@ -10,7 +10,7 @@
 [![Instalación](https://img.shields.io/badge/Instalación-IPA-13cbb5?style=for-the-badge)](#-instalación)
 [![Proyecto](https://img.shields.io/badge/Proyecto-BLACK%20IOS-746cf5?style=for-the-badge)](#comunidad-y-soporte)
 
-**[⬇ DESCARGAR ÚLTIMA VERSIÓN]([https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases/latest/download/MediaVault-PRO.ipa](https://github.com/blackios666/MediaVault-PRO/releases/download/v2.4.0/MediaVault-PRO.ipa))** · [📦 Ver versiones]([https://github.com/USUARIO_GITHUB/MediaVault-PRO/releases](https://github.com/blackios666/MediaVault-PRO/releases/tag/v2.4.0)) · [🌐 Web de descarga]([https://USUARIO_GITHUB.github.io/MediaVault-PRO/](https://mediavault-pro.blogspot.com/))
+**[⬇ DESCARGAR ÚLTIMA VERSIÓN](https://github.com/blackios666/MediaVault-PRO/releases/download/v2.4.0/MediaVault-PRO.ipa)** · [📦 Ver versiones](https://github.com/blackios666/MediaVault-PRO/releases/tag/v2.4.0) · [🌐 Web de descarga](https://mediavault-pro.blogspot.com/)
 
 </div>
 
